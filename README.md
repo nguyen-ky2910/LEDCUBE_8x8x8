@@ -10,7 +10,7 @@ A compact **8×8×8 LED cube** driven by an ATmega32A microcontroller and eight 
 
 The cube contains 512 individually addressable LEDs. It uses timer-driven layer multiplexing, a compact 64-byte framebuffer, low-level voxel operations, animation utilities, and a three-dimensional cellular-automaton demonstration.
 
-![Completed 8×8×8 LED cube](img/cube.png)
+
 
 > **Safety notice:** This is a hobby electronics project. Verify the PCB, LED polarity, current-limiting resistors, supply capacity, and driver-current limits before powering the hardware. The project is provided without warranty.
 
