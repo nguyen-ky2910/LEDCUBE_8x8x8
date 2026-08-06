@@ -59,7 +59,7 @@ The firmware displays one Z layer at a time. Rapidly cycling through all eight l
 
 ## Physical Construction
 
-![LED cube controller PCB](img/pcb.png)
+
 
 The hardware design uses:
 
